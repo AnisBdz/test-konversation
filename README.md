@@ -3,6 +3,9 @@
 ## Build Setup
 
 ``` bash
+# Demo
+[Try it out](https://anisbdz.github,io/test-konversation/index.html)
+
 # install dependencies
 npm install
 
